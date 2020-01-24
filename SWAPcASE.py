@@ -1,3 +1,4 @@
+# Python Method that swaps capital letters to lowercase and vice versa.
 def swap_case(s):
     z = list(s) # change String to list
     
